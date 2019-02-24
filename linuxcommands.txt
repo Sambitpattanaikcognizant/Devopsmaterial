@@ -1,0 +1,60 @@
+  pwd
+    2  yum install tree -y
+    3  tree
+    4  whichc tree
+    5  which tree
+    6  rpm -qa | grep tree
+    7  pwd
+    8  L
+    9  cd /root/.ssh/
+   10  pwd
+   11  ls
+   12  ls -llrt
+   13  pwd
+   14  ls -lrt
+   15  vi authorized_keys
+   16  ls -ltr
+   17  cat authorized_keys
+   18  pwd
+   19  cd /
+   20  pwd
+   21  cd /opt
+   22  pwd
+   23  vi sam
+   24  pwd
+   25  ls
+   26  cat sam
+   27  vi sam
+   28  ls
+   29  vi sam
+   30  cat sam
+   31  vi sam
+   32  L
+   33  pwd
+   34  cd /root/.ssh/
+   35  ls
+   36  ls -lrt
+   37  cat authorized_keys
+   38  pwd
+   39  cd /opt
+   40  ls
+   41  clear
+   42  mkdir Devopsmaterial
+   43  rm Devopsmaterial/
+   44  rm -rf Devopsmaterial/
+   45  ls -lrt
+   46  cd /
+   47  clear
+   48  mkdir -p /opt/Devopsmaterial
+   49  pwd
+   50  owd
+   51  pwd
+   52  mkdir -p /opt/Devopsmaterial && cd /opt/Devopsmaterial/
+   53  pwd
+   54  git init
+   55  yum install git
+   56  yum init
+   57  clear
+   58  git init
+   59  history
+
